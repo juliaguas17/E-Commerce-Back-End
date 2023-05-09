@@ -16,4 +16,4 @@ npm start
 ```
 # Walkthrough
 NOTE: My code is currently throwing some errors related to my initial findAll() GET route that I intend to debug later on.
-<video src="assets/Untitled_%20May%209,%202023%2012_59%20PM.mp4" controls title="Title"></video>
+<video src='assets\demo-video.mp4' width=180>
