@@ -14,7 +14,9 @@ npm i
 node seeds/index.js
 npm start
 ```
-# Walkthrough
-NOTE: My code is currently throwing some errors related to my initial findAll() GET route that I intend to debug later on.
+# Walkthrough Video
+
+NOTE: My code is currently throwing errors related to my initial findAll() GET route that I intend to debug later on.
+
 https://github.com/juliaguas17/E-Commerce-Back-End/assets/119539738/57cba3d7-b85f-4202-89f3-2da023126605
 
