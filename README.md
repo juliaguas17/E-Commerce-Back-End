@@ -16,4 +16,5 @@ npm start
 ```
 # Walkthrough
 NOTE: My code is currently throwing some errors related to my initial findAll() GET route that I intend to debug later on.
-<video src='assets\demo-video.mp4' width=180>
+https://github.com/juliaguas17/E-Commerce-Back-End/assets/119539738/57cba3d7-b85f-4202-89f3-2da023126605
+
